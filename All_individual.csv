@@ -1,0 +1,101 @@
+﻿id,states,gop,screen_name,gender,age,seniority,seatend,reelect_pressure,ideology
+1,Arizona,1,JeffFlake,Jeff Flake,M,55,5,3,0.855
+2,Maine,1,SenAngusKing,Angus King,M,74,5,3,-0.15
+3,Mississippi,1,SenatorWicker,Roger Wicker,M,67,10,3,0.377
+4,Mississippi,1,cindyhydesmith,Cindy Hyde-Smith[f],F,59,0,3,0.457
+5,Nebraska,1,SenatorFischer,Deb Fischer,F,67,5,3,0.472
+6,Nevada,1,SenDeanHeller,Dean Heller,M,58,7,3,0.465
+7,North Dakota,1,SenatorHeitkamp,Heidi Heitkamp,F,62,5,3,-0.122
+8,Tennessee,1,SenAlexander,Bob Corker,M,65,11,3,0.395
+9,Texas,1,SenTedCruz,Ted Cruz,M,47,5,3,0.835
+10,Utah,1,senorrinhatch,Orrin Hatch,M,84,41,3,0.382
+11,Wisconsin,1,SenatorBaldwin,Tammy Baldwin,F,56,5,3,-0.528
+12,Wyoming,1,SenJohnBarrasso,John Barrasso,M,65,11,3,0.531
+13,Alaska,1,SenDanSullivan,Dan Sullivan,M,53,3,2,0.473
+14,Arkansas,1,SenTomCotton,Tom Cotton,M,41,3,2,0.611
+15,Colorado,1,SenCoryGardner,Cory Gardner,M,43,3,2,0.456
+16,Georgia,1,sendavidperdue,David Perdue,M,68,3,2,0.621
+17,Idaho,1,SenatorRisch,Jim Risch,M,75,9,2,0.635
+18,Iowa,1,joniernst,Joni Ernst,F,48,3,2,0.342
+19,Kansas,1,SenPatRoberts,Pat Roberts,M,82,21,2,0.414
+20,Kentucky,1,SenateMajLdr,Mitch McConnell,M,76,33,2,0.404
+21,Louisiana,1,BillCassidy,Bill Cassidy,M,60,3,2,0.452
+22,Montana,1,SteveDaines,Steve Daines,M,55,3,2,0.543
+23,Nebraska,1,BenSasse,Ben Sasse,M,46,3,2,0.813
+24,North Carolina,1,SenThomTillis,Thom Tillis,M,57,3,2,0.428
+25,Oklahoma,1,JimInhofe,Jim Inhofe,M,83,13,2,0.572
+26,South Carolina,1,GrahamBlog,Lindsey Graham,M,62,15,2,0.408
+27,South Dakota,1,SenatorRounds,Mike Rounds,M,63,3,2,0.391
+28,Tennessee,1,BobCorker,Lamar Alexander,M,78,15,2,0.323
+29,Texas,1,JohnCornyn,John Cornyn,M,66,15,2,0.495
+30,West Virginia,1,SenCapito,Shelley Moore Capito,F,64,3,2,0.26
+31,Wyoming,1,SenatorEnzi,Mike Enzi,M,74,21,2,0.54
+32,Alabama,1,SenShelby,Richard Shelby,M,84,31,1,0.432
+33,Alaska,1,lisamurkowski,Lisa Murkowski,F,61,15,1,0.207
+34,Arizona,1,SenJohnMcCain,John McCain,M,81,31,1,0.381
+35,Arkansas,1,JohnBoozman,John Boozman,M,67,7,1,0.402
+36,Florida,1,marcorubio,Marco Rubio,M,47,6,1,0.582
+37,Georgia,1,SenatorIsakson,Johnny Isakson,M,73,13,1,0.403
+38,Idaho,1,MikeCrapo,Mike Crapo,M,67,19,1,0.509
+39,Indiana,1,SenToddYoung,Todd Young,M,45,1,1,0.485
+40,Iowa,1,ChuckGrassley,Chuck Grassley,M,84,37,1,0.518
+41,Kansas,1,JerryMoran,Jerry Moran,M,64,7,1,0.414
+42,Kentucky,1,RandPaul,Rand Paul,M,55,7,1,0.878
+43,Louisiana,1,SenJohnKennedy,John Kennedy,M,66,1,1,0.45
+44,Missouri,1,RoyBlunt,Roy Blunt,M,68,7,1,0.43
+45,North Carolina,1,SenatorBurr,Richard Burr,M,62,13,1,0.453
+46,Ohio,1,senrobportman,Rob Portman,M,62,7,1,0.375
+47,Oklahoma,1,SenatorLankford,James Lankford,M,50,3,1,0.552
+48,Pennsylvania,1,SenToomey,Pat Toomey,M,56,7,1,0.631
+49,South Carolina,1,SenatorTimScott,Tim Scott,M,52,5,1,0.656
+50,South Dakota,1,SenJohnThune,John Thune,M,57,13,1,0.41
+51,Utah,1,SenMikeLee,Mike Lee,M,47,7,1,0.92
+52,California,0,SenFeinstein,Dianne Feinstein,F,85,25,3,-0.267
+53,Connecticut,0,ChrisMurphyCT,Chris Murphy,M,44,5,3,-0.308
+54,Delaware,0,SenatorCarper,Tom Carper,M,71,17,3,-0.173
+55,Florida,0,SenBillNelson,Bill Nelson,M,75,7,3,-0.193
+56,Hawaii,0,maziehirono,Mazie Hirono,F,70,5,3,-0.49
+57,Indiana,0,SenDonnelly,Joe Donnelly,M,62,5,3,-0.119
+58,Maryland,0,SenatorCardin,Ben Cardin,M,74,11,3,-0.327
+59,Massachusetts,0,SenWarren,Elizabeth Warren,F,69,5,3,-0.778
+60,Michigan,0,SenStabenow,Debbie Stabenow,F,68,17,3,-0.328
+61,Minnesota,0,amyklobuchar,Amy Klobuchar,F,58,11,3,-0.244
+62,Minnesota,0,SenTinaSmith,Tina Smith[e],F,60,10,3,-0.345
+63,Missouri,0,clairecmc,Claire McCaskill,F,64,11,3,-0.144
+64,Montana,0,SenatorTester,Jon Tester,M,61,11,3,-0.213
+65,New Jersey,0,SenatorMenendez,Bob Menendez,M,64,12,3,-0.362
+66,New Mexico,0,MartinHeinrich,Martin Heinrich,M,46,5,3,-0.297
+67,New York,0,SenGillibrand,Kirsten Gillibrand,F,51,9,3,-0.4
+68,Ohio,0,SenSherrodBrown,Sherrod Brown,M,65,11,3,-0.438
+69,Pennsylvania,0,SenBobCasey,Bob Casey Jr.,M,58,11,3,-0.303
+70,Rhode Island,0,SenWhitehouse,Sheldon Whitehouse,M,62,11,3,-0.401
+71,Vermont,0,SenSanders,Bernie Sanders,M,76,11,3,-0.519
+72,Virginia,0,timkaine,Tim Kaine,M,60,5,3,-0.233
+73,Washington,0,SenatorCantwell,Maria Cantwell,F,59,17,3,-0.292
+74,West Virginia,0,Sen_JoeManchin,Joe Manchin,M,70,7,3,-0.057
+75,Alabama,0,SenDougJones,Doug Jones[d],M,64,0,2,-0.145
+76,Delaware,0,ChrisCoons,Chris Coons,M,54,7,2,-0.246
+77,Illinois,0,SenatorDurbin,Dick Durbin,M,73,21,2,-0.362
+78,Maine,0,SenatorCollins,Susan Collins,F,65,21,2,0.11
+79,Massachusetts,0,SenMarkey,Ed Markey,M,71,5,2,-0.503
+80,Michigan,0,SenGaryPeters,Gary Peters,M,59,3,2,0.236
+81,New Hampshire,0,SenatorShaheen,Jeanne Shaheen,F,71,9,2,-0.257
+82,New Jersey,0,CoryBooker,Cory Booker,M,49,4,2,-0.616
+83,New Mexico,0,SenatorTomUdall,Tom Udall,M,70,9,2,-0.453
+84,Oregon,0,SenJeffMerkley,Jeff Merkley,M,61,9,2,-0.48
+85,Rhode Island,0,SenJackReed,Jack Reed,M,68,21,2,-0.382
+86,Virginia,0,MarkWarner,Mark Warner,M,63,9,2,-0.193
+87,California,0,KamalaHarris,Kamala Harris,F,53,1,1,-0.698
+88,Colorado,0,SenBennetCO,Michael Bennet,M,53,9,1,-0.207
+89,Connecticut,0,SenBlumenthal,Richard Blumenthal,M,72,7,1,-0.421
+90,Hawaii,0,brianschatz,Brian Schatz,M,45,7,1,-0.402
+91,Illinois,0,SenDuckworth,Tammy Duckworth,F,50,1,1,-0.316
+92,Maryland,0,ChrisVanHollen,Chris Van Hollen,M,59,1,1,-0.395
+93,Nevada,0,SenCortezMasto,Catherine Cortez Masto,M,54,1,1,-0.385
+94,New Hampshire,0,SenatorHassan,Maggie Hassan,F,60,1,1,-0.263
+95,New York,0,SenSchumer,Chuck Schumer,M,67,19,1,-0.351
+96,North Dakota,0,SenJohnHoeven,John Hoeven,M,61,7,1,0.34
+97,Oregon,0,RonWyden,Ron Wyden,M,69,23,1,-0.32
+98,Vermont,0,SenatorLeahy,Patrick Leahy,M,78,43,1,-0.371
+99,Washington,0,PattyMurray,Patty Murray,F,67,25,1,-0.343
+100,Wisconsin,0,SenRonJohnson,Ron Johnson,M,63,7,1,0.599
